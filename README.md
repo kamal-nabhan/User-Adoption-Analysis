@@ -31,7 +31,7 @@ The  data  has  the  following  two  tables:
 
 Defining  an  "adopted  user"   as  a  user  who   has  logged  into  the  product  on  three  separate
 days  in  at  least  one  seven-day  period ,  identify  which  factors  predict  future  user
-adoption .
+adoption . 
 
 
 We  suggest  spending  1-2  hours  on  this,  but  you're  welcome  to  spend  more  or  less.
