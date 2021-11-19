@@ -1,4 +1,4 @@
-# User-Adoption-Analysis
+# User Adoption Analysis
 
 The  data  is  available  as  two  attached  CSV  files:
 
